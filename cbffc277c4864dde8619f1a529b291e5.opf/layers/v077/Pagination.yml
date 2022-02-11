@@ -13,22 +13,22 @@ annotations:
     imgnum: 30
     reference: ''
     span:
-      start: 730
-      end: 2076
+      start: 729
+      end: 2072
     note_ref: 04765b3d142d4104a377e5de8fba1984
   7281040ac3f94a64a5ebe7573fa75895:
     imgnum: 31
     reference: ''
     span:
-      start: 2079
-      end: 2978
+      start: 2074
+      end: 2970
     note_ref: 04765b3d142d4104a377e5de8fba1984
   04765b3d142d4104a377e5de8fba1984:
     imgnum: 32
     reference: ''
     span:
-      start: 2981
-      end: 3359
+      start: 2972
+      end: 3347
 local_ids:
   6ba3464ee31e40249c3cc694183d546a: 200000
   d4d9436f7e904b7c8713a56870b040f2: 200001
